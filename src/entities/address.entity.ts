@@ -1,4 +1,4 @@
 export interface IAddressEntity {
-    street: string,
-    number: number,
+    street: string;
+    number: number;
 }
